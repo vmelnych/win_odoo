@@ -1,0 +1,7 @@
+# Environment variables for the app on Odoo server
+
+POSTGRES_PASSWORD=434hdsgf329
+POSTGRES_USER=odoo
+
+PGADMIN_EMAIL=odoo
+PGADMIN_PASSWORD=gfdsgf468fg1
